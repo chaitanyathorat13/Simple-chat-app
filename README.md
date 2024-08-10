@@ -3,6 +3,3 @@ Basic real time chat application with;
 * Node.js 
 * socket.io
 * ExpressJS
-
-Difficulty :full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
-# Simple-chat-app
